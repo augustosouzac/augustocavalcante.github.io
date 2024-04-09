@@ -1,7 +1,7 @@
 ﻿<?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'mail.github.com';
+$siteOwnersEmail = '83229741+augustosouzac@users.noreply.github.com';
 
 
 if($_POST) {
