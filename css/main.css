@@ -1505,7 +1505,7 @@ header .logo a {
 }
 .intro-info img {
 	height: 9rem;
-	width: 9rem;
+/*	width: 9rem;*/
 	border-radius: 50%;
 	margin: .9rem 0 0 0;
 	float: left;
