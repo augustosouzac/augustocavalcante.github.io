@@ -42,10 +42,10 @@
 
 
 	/*---------------------------------------------------- */
-	/* Owl Carousel Services
+	/* Owl Carousel
 	------------------------------------------------------ */ 
 	$("#owl-slider").owlCarousel({
-        navigation: false,
+        navigation: true,
         pagination: true,
         itemsCustom : [
 	        [0, 1],
@@ -55,117 +55,6 @@
         navigationText: false
     });
 
-	/*---------------------------------------------------- */
-	/* Owl Carousel Portfolio
-	------------------------------------------------------ */ 
-	$("#owl-slider-port").owlCarousel({
-        navigation: false,
-        pagination: true,
-        itemsCustom : [
-	        [0, 1],
-	        [800, 2],
-	        [1350, 3]
-	     ],
-        navigationText: false
-    });
-
-
-	/*---------------------------------------------------- */
-	/* Owl Carousel Certificates
-	------------------------------------------------------ */ 
-	$("#owl-slider-cert").owlCarousel({
-        navigation: false,
-        pagination: true,
-        itemsCustom : [
-	        [0, 1],
-	        [1500, 1],
-	        [1500, 1]
-	     ],
-        navigationText: false
-    });
-
-
-	/*---------------------------------------------------- */
-	/* Owl Carousel Works
-	------------------------------------------------------ */ 
-	$("#owl-slider-work").owlCarousel({
-        navigation: false,
-        pagination: true,
-        itemsCustom : [
-	        [0, 1],
-	        [1500, 1],
-	        [1500, 1]
-	     ],
-        navigationText: false
-    });
-
-	/*---------------------------------------------------- */
-	/* Owl Carousel Works
-	------------------------------------------------------ */ 
-	$("#owl-slider-academy").owlCarousel({
-        navigation: false,
-        pagination: true,
-        itemsCustom : [
-	        [0, 1],
-	        [1500, 1],
-	        [1500, 1]
-	     ],
-        navigationText: false
-    });
-
-
-	/*---------------------------------------------------- */
-	/* Owl Carousel Degrees
-	------------------------------------------------------ */ 
-	$("#owl-slider-degree").owlCarousel({
-        navigation: false,
-        pagination: true,
-        itemsCustom : [
-	        [0, 1],
-	        [1500, 1],
-	        [1500, 1]
-	     ],
-        navigationText: false
-    });
-
-	/*---------------------------------------------------- */
-	/* Owl Carousel Extra
-	------------------------------------------------------ */ 
-	$("#owl-slider-extra").owlCarousel({
-        navigation: false,
-        pagination: true,
-        itemsCustom : [
-	        [0, 1],
-	        [1500, 1],
-	        [1500, 1]
-	     ],
-        navigationText: false
-    });
-
-	/*---------------------------------------------------- */
-	/* Owl Carousel Skills
-	------------------------------------------------------ */ 
-	$("#owl-slider-skills").owlCarousel({
-        navigation: false,
-        pagination: true,
-        itemsCustom : [
-	        [0, 1],
-	        [1500, 1],
-	        [1500, 1]
-	     ],
-        navigationText: false
-    });
-
-	$("#owl-slider-languages").owlCarousel({
-        navigation: false,
-        pagination: true,
-        itemsCustom : [
-	        [0, 1],
-	        [1500, 1],
-	        [1500, 1]
-	     ],
-        navigationText: false
-    });
 
 	/*----------------------------------------------------- */
 	/* Alert Boxes

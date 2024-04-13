@@ -1511,7 +1511,7 @@ header .logo a {
 	float: left;
 }
 .intro-info .lead {
-	text-align: left;
+	text-align: justify;
 	padding-left: 13rem;
 }
 
@@ -2169,7 +2169,7 @@ header .logo a {
 	margin: 1.2rem .8rem 0 .8rem;
 	border-radius: 50%;
 	display: inline-block;
-	background: #FFFFFF;
+	background: #BBB;
 }
 .owl-theme .owl-controls .owl-page.active span {
 	background: #FF0077;
